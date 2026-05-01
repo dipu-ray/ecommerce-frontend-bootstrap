@@ -253,6 +253,12 @@ body {
     color: var(--dark-color2) !important;
 }
 
+/* Projects + Years + Client */
+.pyc-container {
+    background-color: #242424;
+    height: 150px;
+}
+
 
 
 
