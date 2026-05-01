@@ -259,6 +259,32 @@ body {
     height: 150px;
 }
 
+/* Specialization + Experience + Education + Languages */
+.seel-content span {
+    font-size: .9rem;
+}
+
+/* About section links bar */
+.about-btn1 {
+    transition: var(--animation2);
+}
+
+.about-btn1:hover {
+    background-color: var(--gray-color) !important;
+    box-shadow: 0 10px 20px var(--gray-color);
+    transform: translateY(-3px);
+}
+
+.about-btn2 {
+    border: 3px solid var(--border-color);
+    transition: var(--animation2);
+}
+
+.about-btn2:hover {
+    border: 3px solid var(--white-color);
+    transform: translateY(-3px);
+}
+
 
 
 
