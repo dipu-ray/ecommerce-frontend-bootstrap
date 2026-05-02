@@ -1,0 +1,23 @@
+/* Custom Class */
+.mt-10 {
+    margin: 100px auto;
+}
+
+/* Navbar right side link */
+.cart-btn {
+    width: 110px;
+    height: 36px;
+    transition: all ease-in-out .4s;
+}
+
+.cart-btn:hover {
+    background-color: black;
+    color: white !important;
+}
+
+/* Header Container */
+.header-img {
+    background-color: #dfe1e6;
+    width: 600px;
+    height: 700px;
+}
