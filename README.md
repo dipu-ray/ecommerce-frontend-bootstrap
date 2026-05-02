@@ -9,7 +9,7 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 │   └── assets/
 │   └── index.html
 │   └── style.css
-├── b. ecommerce-website/
+├── b. e-commerce-website/
 ├── c. admin-dashboard/
 ```
 
