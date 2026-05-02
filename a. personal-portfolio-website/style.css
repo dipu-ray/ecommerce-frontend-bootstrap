@@ -20,42 +20,6 @@ body {
     color: var(--white-color);
 }
 
-/* Navbar */
-.nav-background {
-    background-color: var(--dark-color2);
-    border: 1px solid var(--border-color);
-    bottom: 50%;
-    transform: translateY(50%);
-}
-
-/* Navbar Link */
-.nav-color a {
-    color: var(--gray-color2);
-    transition: var(--animation);
-}
-
-.nav-color a:hover {
-    color: var(--white-color);
-}
-
-/* Navbar Icons Bar */
-.nav-i-c a i {
-    color: var(--white-color);
-    background-color: #303030;
-    width: 40px;
-    height: 40px;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50px;
-    transition: var(--animation);
-}
-
-.nav-i-c a i:hover {
-    color: #303030;
-    background-color: var(--white-color);
-}
-
 /* Header Container */
 .header-container {
     margin: 220px auto;
