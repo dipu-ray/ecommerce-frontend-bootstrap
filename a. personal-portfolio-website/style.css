@@ -217,6 +217,11 @@ body {
     color: var(--dark-color2) !important;
 }
 
+/* Right container of about section */
+.short-intro {
+    width: 160px;
+}
+
 /* Projects + Years + Client */
 .pyc-container {
     background-color: #242424;
@@ -287,3 +292,27 @@ body {
 
 
 /* Responsive Design */
+@media screen and (max-width: 992px) {
+    .header-container {
+        margin: 100px auto 300px;
+    }
+
+    .header-content {
+        margin-bottom: 180px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .pyc-container {
+        flex-direction: column;
+        height: 400px;
+    }
+
+    .abs-link {
+        flex-direction: column;
+    }
+
+    .header-image img {
+        width: 300px;
+    }
+}
