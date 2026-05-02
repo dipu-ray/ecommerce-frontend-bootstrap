@@ -3,6 +3,10 @@
     margin: 100px auto;
 }
 
+.w-10 {
+    width: 45px;
+}
+
 /* Navbar right side link */
 .cart-btn {
     width: 110px;
@@ -20,4 +24,9 @@
     background-color: #dfe1e6;
     width: 600px;
     height: 700px;
+}
+
+.add-cart-btn {
+    width: 120px;
+    height: 38px;
 }
