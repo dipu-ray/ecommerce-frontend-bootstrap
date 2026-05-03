@@ -1,6 +1,10 @@
 /* Custom Class */
-.mt-10 {
+.my-10 {
     margin: 100px auto;
+}
+
+.my-20 {
+    margin: 200px auto 100px;
 }
 
 .w-10 {
@@ -21,12 +25,25 @@
 
 /* Header Container */
 .header-img {
-    background-color: #dfe1e6;
     width: 600px;
     height: 700px;
 }
 
-.add-cart-btn {
-    width: 120px;
-    height: 38px;
+.cart-btn2 {
+    width: 130px;
+    height: 40px;
+}
+
+.p-btn {
+    transition: all ease-in-out .4s;
+}
+
+.p-btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.product-badge {
+    right: 10px;
+    top: 10px;
 }
