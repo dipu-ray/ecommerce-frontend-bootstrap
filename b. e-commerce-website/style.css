@@ -29,11 +29,13 @@
     height: 700px;
 }
 
+/* Header "Add to cart" button */
 .cart-btn2 {
     width: 130px;
     height: 40px;
 }
 
+/* Products buttons */
 .p-btn {
     transition: all ease-in-out .4s;
 }
