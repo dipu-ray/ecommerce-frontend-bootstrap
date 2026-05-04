@@ -6,10 +6,17 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 
 ```
 ├── a. personal-portfolio-website/
+│   └── assets/                     # Non-Code Files
+│       └── images/                 # Images & Graphics
+│       └── project-screenshot/     # Project Screenshots
+│   └── index.html                  # HTML + Bootstrap Code
+│   └── style.css                   # CSS Code
+├── b. e-commerce-website/
 │   └── assets/
+│       └── images/
+│       └── project-screenshot/
 │   └── index.html
 │   └── style.css
-├── b. e-commerce-website/
 ├── c. admin-dashboard/
 ```
 
