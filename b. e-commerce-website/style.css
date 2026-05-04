@@ -23,12 +23,6 @@
     color: white !important;
 }
 
-/* Header Container */
-.header-img {
-    width: 600px;
-    height: 700px;
-}
-
 /* Header "Add to cart" button */
 .cart-btn2 {
     width: 130px;
