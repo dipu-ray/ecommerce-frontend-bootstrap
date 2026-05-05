@@ -24,11 +24,13 @@ The purpose of this project is to develop my coding skills better.
 ## 📂 Project Structure
 
 ```
-e-commerce-website/
-│── assets/
-    └── images/
-│── index.html
-│── style.css
+e-commerce-website/                 # Project Title
+│── assets/                         # Non-Code Files
+│    └── images/                    # Images & Graphics
+│    └── project-screenshot/        # Project Screenshots
+│── README.md                       # Project Documentation
+│── index.html                      # HTML + Bootstrap Code
+│── style.css                       # CSS Code
 
 ```
 
