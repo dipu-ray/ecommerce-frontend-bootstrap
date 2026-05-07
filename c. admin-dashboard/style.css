@@ -1,4 +1,5 @@
-.aside-bar {
-    height: 95vh;
-    width: 280px;
+body {
+    background-color: #08080a;
+    color: #72727a;
+    margin: 20px;
 }
