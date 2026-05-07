@@ -19,3 +19,31 @@ body {
     height: 1px;
     background-color: #72727a28;
 }
+
+/* Aside Links */
+.aside-links a {
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    color: #72727a;
+    border-radius: 8px;
+    padding-left: 20px;
+    font-weight: 600;
+    padding: 10px 20px;
+    transition: all ease .4s;
+}
+
+.aside-links a:hover {
+    background-color: #00000083;
+    color: white;
+}
+
+/* Navbar */
+.nav-links {
+    transition: all ease .4s;
+}
+
+.nav-links:hover {
+    color: white !important;
+}
