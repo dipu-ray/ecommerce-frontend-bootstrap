@@ -14,6 +14,9 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 │   └── index.html
 │   └── style.css
 ├── c. admin-dashboard/
+│   └── assets/
+│   └── index.html
+│   └── style.css
 ```
 
 ## 🔧 Built With
