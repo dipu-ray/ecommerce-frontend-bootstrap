@@ -47,3 +47,20 @@ body {
 .nav-links:hover {
     color: white !important;
 }
+
+/* Main Intro */
+.l-days {
+    transition: all ease .4s;
+}
+
+.l-days:hover {
+    background-color: #72727a38;
+}
+
+.export-btn {
+    transition: all ease .4s;
+}
+
+.export-btn:hover {
+    background-color: #ffffffc8 !important;
+}
