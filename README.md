@@ -5,16 +5,24 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 ## 📁 Project Structures
 
 ```
-├── a. personal-portfolio-website/
-│   └── assets/
-│   └── index.html
-│   └── style.css
+├── a. personal-portfolio-website/  # Project Name
+│   └── assets/                     # Non-Code Files
+│   └── README.md                   # Project Documentation
+│   └── index.html                  # HTML + Bootstrap Codes
+│   └── style.css                   # CSS Codes
 ├── b. e-commerce-website/
 │   └── assets/
+│   └── README.md
 │   └── index.html
 │   └── style.css
 ├── c. landing-page/
 │   └── assets/
+│   └── README.md
+│   └── index.html
+│   └── style.css
+├── d. pricing-cards/
+│   └── assets/
+│   └── README.md
 │   └── index.html
 │   └── style.css
 ```
