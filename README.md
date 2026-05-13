@@ -13,7 +13,7 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 │   └── assets/
 │   └── index.html
 │   └── style.css
-├── c. admin-dashboard/
+├── c. landing-page/
 │   └── assets/
 │   └── index.html
 │   └── style.css
