@@ -36,15 +36,15 @@ landing-page/                       # Project Title
 
 <p align="center">
   <h4>1. Phone Screen:</h4>
-  <img src="./assets/" width="300" alt="Landing Page project screenshot - Phone screen">
+  <img src="./assets/project-screenshots/phone.png" width="300" alt="Landing Page project screenshot - Phone screen">
 </p>
 <p align="center">
   <h4>2. Tab Screen:</h4>
-  <img src="./assets/" width="400" alt="Landing Page project screenshot - Tab screen">
+  <img src="./assets/project-screenshots/tab.png" width="400" alt="Landing Page project screenshot - Tab screen">
 </p>
 <p align="center">
   <h4>3. Laptop or Desktop Screen:</h4>
-  <img src="./assets/" width="600" alt="Landing Page project screenshot - Laptop or Desktop screen">
+  <img src="./assets/project-screenshots/laptop.png" width="600" alt="Landing Page project screenshot - Laptop or Desktop screen">
 </p>
 
 ---
