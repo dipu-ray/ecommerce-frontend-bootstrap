@@ -14,10 +14,9 @@ The purpose of this project is to develop my coding skills better.
 
 ## ✨ Features
 
-- Sticky Top Navbar
-- Grid-Based Dashboard Shell
-- Interactive Data Tables
-- Statistic Cards
+- Bootstrap Navbar
+- Home Section
+- A Fluid Card
 - Responsive layout
 
 ---
@@ -26,6 +25,9 @@ The purpose of this project is to develop my coding skills better.
 
 ```
 landing-page/                       # Project Title
+│── assets/                         # Non-Code Files
+│    └── images/                    # Images & Graphics
+│    └── project-screenshots/       # Project Screenshots
 │── README.md                       # Project Documentation
 │── index.html                      # HTML + Bootstrap Code
 │── style.css                       # CSS Code
