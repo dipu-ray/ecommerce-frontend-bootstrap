@@ -1,4 +1,4 @@
-# 📊 Admin Dashboard
+# 📊 Landing Page
 
 📅 Date: May 06, 2026  
 👨‍💻 Author: Dipu Ray
@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-This is a **Admin Dashboard** built using **Bootstrap**.  
+This is a **Landing Page** built using **Bootstrap**.  
 The purpose of this project is to develop my coding skills better.
 
 ---
@@ -25,7 +25,7 @@ The purpose of this project is to develop my coding skills better.
 ## 📂 Project Structure
 
 ```
-admin-dashboard/                    # Project Title
+landing-page/                       # Project Title
 │── README.md                       # Project Documentation
 │── index.html                      # HTML + Bootstrap Code
 │── style.css                       # CSS Code
@@ -36,15 +36,15 @@ admin-dashboard/                    # Project Title
 
 <p align="center">
   <h4>1. Phone Screen:</h4>
-  <img src="./assets/" width="300" alt="Admin Dashboard project screenshot - Phone screen">
+  <img src="./assets/" width="300" alt="Landing Page project screenshot - Phone screen">
 </p>
 <p align="center">
   <h4>2. Tab Screen:</h4>
-  <img src="./assets/" width="400" alt="Admin Dashboard project screenshot - Tab screen">
+  <img src="./assets/" width="400" alt="Landing Page project screenshot - Tab screen">
 </p>
 <p align="center">
   <h4>3. Laptop or Desktop Screen:</h4>
-  <img src="./assets/" width="600" alt="Admin Dashboard project screenshot - Laptop or Desktop screen">
+  <img src="./assets/" width="600" alt="Landing Page project screenshot - Laptop or Desktop screen">
 </p>
 
 ---
