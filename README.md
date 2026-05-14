@@ -25,6 +25,11 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 │   └── README.md
 │   └── index.html
 │   └── style.css
+├── e. testimonial-slider/
+│   └── assets/
+│   └── README.md
+│   └── index.html
+│   └── style.css
 ```
 
 ## 🔧 Built With
