@@ -30,6 +30,11 @@ There I'll make lot's of **Bootstrap Projects**. To make websites with Bootstrap
 │   └── README.md
 │   └── index.html
 │   └── style.css
+├── f. profile-card/
+│   └── assets/
+│   └── README.md
+│   └── index.html
+│   └── style.css
 ```
 
 ## 🔧 Built With
