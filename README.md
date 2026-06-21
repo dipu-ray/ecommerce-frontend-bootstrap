@@ -9,7 +9,7 @@ A clean, modern, and fully responsive e-commerce frontend UI — built with **HT
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Responsive](https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge)](#-responsive-design)
 
-[Live Demo]() · [GitHub](https://github.com/dipu-ray) · [LinkedIn](https://www.linkedin.com/in/dipu-ray/)
+[Live Demo](https://dipu-ray.github.io/ecommerce-frontend-bootstrap/) · [GitHub](https://github.com/dipu-ray) · [LinkedIn](https://www.linkedin.com/in/dipu-ray/)
 
 </div>
 
