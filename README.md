@@ -16,7 +16,7 @@ A clean, modern, and fully responsive e-commerce frontend UI — built with **HT
 ---
 
 **Started:** 02 May, 2026  
-**Last Updated:** 22 June, 2026  
+**Last Updated:** 23 June, 2026  
 **Author:** Dipu Ray
 
 ---
@@ -56,7 +56,7 @@ This project is ideal for developers who want a clean e-commerce template to lea
 ecommerce-frontend-bootstrap/
 │
 ├── assets/                 # Static files
-│   └── images/             # Images & products
+│   └── images/             # Images, products images & logo
 │   └── project-demo/       # Project preview
 ├── README.md               # Project documentation
 ├── index.html              # Main e-commerce page markup
