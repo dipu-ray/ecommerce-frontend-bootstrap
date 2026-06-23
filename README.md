@@ -16,7 +16,7 @@ A clean, modern, and fully responsive e-commerce frontend UI — built with **HT
 ---
 
 **Started:** 02 May, 2026  
-**Last Updated:** 23 June, 2026  
+**Last Updated:** 24 June, 2026  
 **Author:** Dipu Ray
 
 ---
